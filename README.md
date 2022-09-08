@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Olapade-27
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Ui/UX DESIGN
+- 🌱 I’m currently learning ...FullStact Development
 - 💞️ I’m looking to collaborate on ...PROJECT
 - 📫 How to reach me ...fk.olapade@gmail.com
 
