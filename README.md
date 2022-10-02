@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Olapade-27
-- 👀 I’m interested in ...
+- 👋 Hi, F_oluke
+- 👀 I’m interested in ... developing project
 - 🌱 I’m currently learning ...FullStact Development
 - 💞️ I’m looking to collaborate on ...PROJECT
 - 📫 How to reach me ...fk.olapade@gmail.com
